@@ -1,6 +1,6 @@
 👋 Hi there! I'm passionate about programming and math.
-🔥 Love to dive deep into challenging problems and explore innovative solutions. 
-🧠 Always thrilled to learn new technologies and broaden my horizons.
+- 🔥 Love to dive deep into challenging problems and explore innovative solutions. 
+- 🧠 Always thrilled to learn new technologies and broaden my horizons.
 Let's connect and continue to expand our knowledge and skills together! 🌟
 
 
